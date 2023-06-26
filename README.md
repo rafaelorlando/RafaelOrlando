@@ -3,7 +3,6 @@
 
 💻  Trabalho com automação de testes usando Cypress em JavaScript
 
-📘 Estudando automação de testes usando Selenium em Java
 
 <br></br>
 
